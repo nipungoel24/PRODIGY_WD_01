@@ -185,7 +185,9 @@ a {
 	top: 50%;
 	right: -43%;
 }
-
+.connect .links a .fa-square-github {
+    font-size: 20px; /* Adjust this value as needed */
+}
 .connect .links a {
 	font-size: 17px;
 	margin: 0px 8px;
